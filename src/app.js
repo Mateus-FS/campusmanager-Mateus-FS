@@ -1,3 +1,3 @@
 function iniciar() {
-  console.log("Inicializando")
+  console.log("Inicializando");
 }   # <-- faltou ponto-e-vírgula propositalmente
